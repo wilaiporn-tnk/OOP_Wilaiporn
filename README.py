@@ -1,0 +1,8 @@
+print("hello python")
+print("my name is wilaiporn")
+print("Wilaiporn Kanjanakan")
+print("Pae")
+print("20Year")
+print("No.18")
+print("67319010018")
+print("Play social media")
